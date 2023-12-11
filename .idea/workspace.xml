@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6144392-177f-4f39-90a9-4ace3cced282" name="Changes" comment="Pz_5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_4/отчет 4.2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/PZ_4/отчет 4.2.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_5/PZ_5.1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PZ_5/PZ_5.2.py" beforeDir="false" />
-    </list>
+    <list default="true" id="a6144392-177f-4f39-90a9-4ace3cced282" name="Changes" comment="Pz_5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -362,7 +357,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699976029185</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Pz_5">
+      <option name="closed" value="true" />
+      <created>1702330286767</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702330286767</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Pz_5">
+      <option name="closed" value="true" />
+      <created>1702330439545</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1702330439545</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,6 +405,7 @@
     <MESSAGE value="pz_4" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="Pz_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pz_4" />
+    <MESSAGE value="Pz_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pz_5" />
   </component>
 </project>
