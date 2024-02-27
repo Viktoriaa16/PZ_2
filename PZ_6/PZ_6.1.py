@@ -15,7 +15,7 @@ def check_geometric_progression(arr):
     return ratio
 
 
-# Пример использования:
+# Пример :
 arr = [2, 4, 8, 16, 32]
 result = check_geometric_progression(arr)
 if result:

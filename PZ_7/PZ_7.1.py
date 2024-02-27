@@ -12,5 +12,5 @@ def count_words_with_three_A(input_string):
 
 
 # пример использования функции
-input_string = "ААА БББ АААААА"
+input_string = "ААА БББ ААА"
 print(count_words_with_three_A(input_string))
